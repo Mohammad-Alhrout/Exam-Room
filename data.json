@@ -1,0 +1,1700 @@
+[
+  {
+    "id": 20231402079,
+    "name": "Abd Alrahman Osama Ahmad Althabet",
+    "major": "Logistic Sciences",
+    "room": "B302"
+  },
+  {
+    "id": 20241404011,
+    "name": "Abdalazez Basem Mohammad Abu-Drei'",
+    "major": "International Accounting",
+    "room": "D017"
+  },
+  {
+    "id": 20241501199,
+    "name": "Abdaljaleel Moawiah Abdeljalil Yaghi",
+    "major": "Computer Science",
+    "room": "B002"
+  },
+  {
+    "id": 20241102013,
+    "name": "Abdallah Awwad Mohammad Abuhassan",
+    "major": "Mechatronics Engineering",
+    "room": "C126"
+  },
+  {
+    "id": 20249601019,
+    "name": "Abdallah Fathi Ahmad Albtoosh",
+    "major": "Architecture",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20241206003,
+    "name": "Abdallah Husam Jamil Arabyat",
+    "major": "Civil and Environmental Engineering",
+    "room": "B303"
+  },
+  {
+    "id": 20241103237,
+    "name": "Abdallah Mohammad Ali Al-Shawabkeh",
+    "major": "Industrial Engineering",
+    "room": "C126"
+  },
+  {
+    "id": 20241105049,
+    "name": "Abdallah Mohammad Suleiman Alka'abneh",
+    "major": "Mechanical and Maintenance Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241505013,
+    "name": "Abdallah Saif Abdallah Al-Twal",
+    "major": "Design and Media Informatics",
+    "room": "D017"
+  },
+  {
+    "id": 20231901112,
+    "name": "Abd-Alrahman Wael Mohammad Ammar",
+    "major": "Sciences in Nursing",
+    "room": "D017"
+  },
+  {
+    "id": 20241405062,
+    "name": "Abdel Majid Amjad Abdel Majid Ali",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "B303"
+  },
+  {
+    "id": 20249102003,
+    "name": "Abdel Rahman Ibrahim Ali Alkiswani",
+    "major": "Mechatronics Engineering",
+    "room": "B302"
+  },
+  {
+    "id": 20222405194,
+    "name": "Abdel Rahman Kasaji",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "B002"
+  },
+  {
+    "id": 20241102024,
+    "name": "Abdel Rahman Khaled Mohammad Abuzaid",
+    "major": "Mechatronics Engineering",
+    "room": "B302"
+  },
+  {
+    "id": 20241103139,
+    "name": "Abdel Rahman Khalil Yousef Bjadough",
+    "major": "Industrial Engineering",
+    "room": "B303"
+  },
+  {
+    "id": 20241103202,
+    "name": "Abdel Rahman Mustafa Izzat Alnemrat",
+    "major": "Industrial Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241502106,
+    "name": "Abdel Rahman Na'el Mousa Hdeib",
+    "major": "Computer Engineering",
+    "room": "B002"
+  },
+  {
+    "id": 20242501200,
+    "name": "Abdulla Rami Ali Abu Hameedah",
+    "major": "Computer Science",
+    "room": "D017"
+  },
+  {
+    "id": 20241302010,
+    "name": "Abdullah Hussein Ali Shalan",
+    "major": "Biomedical Engineering",
+    "room": "B303"
+  },
+  {
+    "id": 20241103208,
+    "name": "Abdullah Muntaser Ahmad Al-Qudah",
+    "major": "Industrial Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20249502010,
+    "name": "Abdulrahamn Ahmad Nayef Alabbassi",
+    "major": "Computer Engineering",
+    "room": "B002"
+  },
+  {
+    "id": 20231405020,
+    "name": "Abed Alrahman Abdallah Khaled Rjoub",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "D017"
+  },
+  {
+    "id": 20231405056,
+    "name": "Abedalaziz Hani Mahmoud Alotaibi",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "D017"
+  },
+  {
+    "id": 20241302051,
+    "name": "Abedalqader Qais Abd Al Kaader Awad",
+    "major": "Biomedical Engineering",
+    "room": "B303"
+  },
+  {
+    "id": 20241103179,
+    "name": "Adam Hasan Mohammad Hussein",
+    "major": "Industrial Engineering",
+    "room": "B002"
+  },
+  {
+    "id": 20241103247,
+    "name": "Adam Nader Adnan Qatuni",
+    "major": "Industrial Engineering",
+    "room": "B002"
+  },
+  {
+    "id": 20241301063,
+    "name": "Ahlam Hilmi Khalil Dajani",
+    "major": "Pharmaceutical & Chemical Engineering",
+    "room": "B303"
+  },
+  {
+    "id": 20241103071,
+    "name": "Ahmad Amjed Jamil Aljaradin",
+    "major": "Industrial Engineering",
+    "room": "C126"
+  },
+  {
+    "id": 20241502056,
+    "name": "Ahmad Hani M.f Walwil",
+    "major": "Computer Engineering",
+    "room": "C126"
+  },
+  {
+    "id": 20241302075,
+    "name": "Ahmad Khaled Ahmad Jallad",
+    "major": "Biomedical Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241105011,
+    "name": "Ahmad Khaled Fathy Alkhaledi",
+    "major": "Mechanical and Maintenance Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20249302056,
+    "name": "Ahmad Mahmoud Mousa Hamad",
+    "major": "Biomedical Engineering",
+    "room": "B303"
+  },
+  {
+    "id": 20231502137,
+    "name": "Ahmad Rami Abdullah Bani Naser",
+    "major": "Computer Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20242105050,
+    "name": "Ahmad Riyad Ali Amali",
+    "major": "Mechanical and Maintenance Engineering",
+    "room": "C126"
+  },
+  {
+    "id": 20241102018,
+    "name": "Ahmad Saber Hussein Altawalbeh",
+    "major": "Mechatronics Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20249102010,
+    "name": "Ahmad Sharif Ahmad Daoud",
+    "major": "Mechatronics Engineering",
+    "room": "B303"
+  },
+  {
+    "id": 20241102011,
+    "name": "Ahmad Suleiman Ahmad Alkhraisat",
+    "major": "Mechatronics Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20221405146,
+    "name": "Ahmed Said Ahmed Qahwaji",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "B002"
+  },
+  {
+    "id": 20241901016,
+    "name": "Albaraa Riziq Yaseen Alsalti",
+    "major": "Sciences in Nursing",
+    "room": "B002"
+  },
+  {
+    "id": 20241502151,
+    "name": "Ali Abdelrauof Ali Alhazaimeh",
+    "major": "Computer Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20249203023,
+    "name": "Ali Khaled Omar Ghaith",
+    "major": "Energy Engineering",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20241103217,
+    "name": "Ameed Ayoub Omar Albqowr",
+    "major": "Industrial Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241103255,
+    "name": "Amer Khalid Ahmad Al Sowi",
+    "major": "Industrial Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20249103057,
+    "name": "Amro Nehad Jaser Sadeq",
+    "major": "Industrial Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241405122,
+    "name": "Anas Murad Ghazi Mohammad",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "D017"
+  },
+  {
+    "id": 20241601038,
+    "name": "Athena Haytham Nassim Alsawalha",
+    "major": "Architecture",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20241502025,
+    "name": "Awn Amer Salem Al-Amayreh",
+    "major": "Computer Engineering",
+    "room": "B303"
+  },
+  {
+    "id": 20221402103,
+    "name": "Awn Sami Warrad Alshammout",
+    "major": "Logistic Sciences",
+    "room": "D017"
+  },
+  {
+    "id": 20231701020,
+    "name": "Aya Amjed Mohammad Fadil Aloran",
+    "major": "German and English for Business and Communication",
+    "room": "D017"
+  },
+  {
+    "id": 20219302075,
+    "name": "Ayman Tariq Ahmed Abu Khadijah",
+    "major": "Biomedical Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20221602042,
+    "name": "Aysha Amer Hani Hina",
+    "major": "Design & Visual Communication",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20241402078,
+    "name": "Baha' Abed Alhakim Ahmad Mcaplih",
+    "major": "Logistic Sciences",
+    "room": "B302"
+  },
+  {
+    "id": 20241901027,
+    "name": "Baha Badie Tawfiq Shahrouri",
+    "major": "Sciences in Nursing",
+    "room": "C126"
+  },
+  {
+    "id": 20231901028,
+    "name": "Bahaa Amjed Salim Alhatamleh",
+    "major": "Sciences in Nursing",
+    "room": "D017"
+  },
+  {
+    "id": 20241502178,
+    "name": "Bahaa Fateh Musa Abu Ajaleh",
+    "major": "Computer Engineering",
+    "room": "C126"
+  },
+  {
+    "id": 20231901046,
+    "name": "Baha'adeen Issa Khalaf Alrawahneh",
+    "major": "Sciences in Nursing",
+    "room": "D017"
+  },
+  {
+    "id": 20249601029,
+    "name": "Ban Ihab Hani Al-Amarin",
+    "major": "Architecture",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20241502098,
+    "name": "Basil Mofeed Yousef Alsaleh",
+    "major": "Computer Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241502095,
+    "name": "Batool Amjad Deifallah Alfaqha",
+    "major": "Computer Engineering",
+    "room": "B303"
+  },
+  {
+    "id": 20241102038,
+    "name": "Bertilla Wadah Farouq Almasarwah",
+    "major": "Mechatronics Engineering",
+    "room": "B303"
+  },
+  {
+    "id": 20219103007,
+    "name": "Carol Ajwad Wasef Swedan",
+    "major": "Industrial Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20232302076,
+    "name": "Christine Saba",
+    "major": "Biomedical Engineering",
+    "room": "C126"
+  },
+  {
+    "id": 20241901014,
+    "name": "Dalia Jamal Jumal Al Haj",
+    "major": "Sciences in Nursing",
+    "room": "C126"
+  },
+  {
+    "id": 20241502071,
+    "name": "Dana Abdel-Karim Moh'd Khandaqji",
+    "major": "Computer Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241103257,
+    "name": "Dana Abdelrahman Hasan Bani Awad",
+    "major": "Industrial Engineering",
+    "room": "B002"
+  },
+  {
+    "id": 20241103120,
+    "name": "Daoud Ahmad Dawod Qatawneh",
+    "major": "Industrial Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241505005,
+    "name": "Dima Ayman Mustafa Burghol",
+    "major": "Design and Media Informatics",
+    "room": "D017"
+  },
+  {
+    "id": 20241901030,
+    "name": "Dina Mahmoud Abd Alkareem Abu Shanab",
+    "major": "Sciences in Nursing",
+    "room": "B002"
+  },
+  {
+    "id": 20231103026,
+    "name": "Dina Omar Ragab Omar",
+    "major": "Industrial Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20202601048,
+    "name": "Eithar Abdulaziz Karkour",
+    "major": "Architecture",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20249405125,
+    "name": "Elham Mohammad Abdallah Hasan",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "C131"
+  },
+  {
+    "id": 20231602009,
+    "name": "Etaf Hussein Abdel Hadi Al-Bashiti",
+    "major": "Design & Visual Communication",
+    "room": "B302"
+  },
+  {
+    "id": 20241103243,
+    "name": "Faisal Izzeedin Ahmad Bahdar",
+    "major": "Industrial Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20249502096,
+    "name": "Faisal Mraweh Mohammad Assaf",
+    "major": "Computer Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20249103114,
+    "name": "Faisal Nashat Hussein Hourani",
+    "major": "Industrial Engineering",
+    "room": "C131"
+  },
+  {
+    "id": 20241404024,
+    "name": "Faisal Odeh Abed Rabbo Malahim",
+    "major": "International Accounting",
+    "room": "B302"
+  },
+  {
+    "id": 20231102042,
+    "name": "Faisal Salem Abdal Karim Abualganam",
+    "major": "Mechatronics Engineering",
+    "room": "C131"
+  },
+  {
+    "id": 20249502007,
+    "name": "Faisal Thaer Asri Abuzaid",
+    "major": "Computer Engineering",
+    "room": "B303"
+  },
+  {
+    "id": 20249405022,
+    "name": "Farah Abdel Rahman Bassam Alnabelsi",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "D017"
+  },
+  {
+    "id": 20241505002,
+    "name": "Farah Abdulla Suliman Al-Zyoud",
+    "major": "Design and Media Informatics",
+    "room": "C131"
+  },
+  {
+    "id": 20249105038,
+    "name": "Fares Nader Mousa Aljuneidi",
+    "major": "Mechanical and Maintenance Engineering",
+    "room": "B303"
+  },
+  {
+    "id": 20239302078,
+    "name": "Fredreck Ramzi Saleem Qamar",
+    "major": "Biomedical Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241105024,
+    "name": "Fuad Samir Fuad Abdel-Jaleel",
+    "major": "Mechanical and Maintenance Engineering",
+    "room": "B302"
+  },
+  {
+    "id": 20241901032,
+    "name": "Habeeb Ibrahim Noayran Al-Shoufeyeen",
+    "major": "Sciences in Nursing",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20241601024,
+    "name": "Hajer Al-Hamdou",
+    "major": "Architecture",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20249405001,
+    "name": "Hala Bahjat Adnan Tuffaha",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "D017"
+  },
+  {
+    "id": 20239402099,
+    "name": "Hala Haitham Jehad Barakat",
+    "major": "Logistic Sciences",
+    "room": "B302"
+  },
+  {
+    "id": 20241405081,
+    "name": "Hala Khalid Sayel Alghwairi",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "B002"
+  },
+  {
+    "id": 20241105032,
+    "name": "Hamza Ishaq Yacoub Ghaith",
+    "major": "Mechanical and Maintenance Engineering",
+    "room": "B303"
+  },
+  {
+    "id": 20249405032,
+    "name": "Hamzah Bashar Abid Al-Aziz Alhabahbeh",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "D017"
+  },
+  {
+    "id": 20239602022,
+    "name": "Hamzah Zaid Hassan Alzu'bi",
+    "major": "Design & Visual Communication",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20221602017,
+    "name": "Hanin Asem Hasan Abu Atieh",
+    "major": "Design & Visual Communication",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20249103062,
+    "name": "Hanna Khalil Hanna Abu-Ghattas",
+    "major": "Industrial Engineering",
+    "room": "C131"
+  },
+  {
+    "id": 20241404042,
+    "name": "Hasan Issa Hasan Abusakout",
+    "major": "International Accounting",
+    "room": "B302"
+  },
+  {
+    "id": 20232302011,
+    "name": "Hasan Kamel Hasan Zeineddin",
+    "major": "Biomedical Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241105008,
+    "name": "Hashem Fadi Hussein Alsafadi",
+    "major": "Mechanical and Maintenance Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241302046,
+    "name": "Hashem Feras Ghazi Abuamereh",
+    "major": "Biomedical Engineering",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20249105031,
+    "name": "Hashem Haytham Saleem Alsarrayrih",
+    "major": "Mechanical and Maintenance Engineering",
+    "room": "B302"
+  },
+  {
+    "id": 20231602036,
+    "name": "Hashem Lutfi Jehad Altaiba",
+    "major": "Design & Visual Communication",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20241502016,
+    "name": "Hashem Muath Rakiz Alqurashi",
+    "major": "Computer Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20249404055,
+    "name": "Hashem Yousef Helal Daradkeh",
+    "major": "International Accounting",
+    "room": "B302"
+  },
+  {
+    "id": 20241405034,
+    "name": "Hashim Tariq Salameh Al-Warawrah",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "D017"
+  },
+  {
+    "id": 20242103026,
+    "name": "Hatem Ammar Abdallah Abumostafa",
+    "major": "Industrial Engineering",
+    "room": "B002"
+  },
+  {
+    "id": 20249601003,
+    "name": "Hawa Abdelrahman I. Zuraik",
+    "major": "Architecture",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20249405005,
+    "name": "Henry Hani Henry Hannoush",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "D017"
+  },
+  {
+    "id": 20249405059,
+    "name": "Hind M'amoun Moh'd Suleiman Arafah",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "B002"
+  },
+  {
+    "id": 20241502150,
+    "name": "Husam Yazan Husam Zaid Alkilani",
+    "major": "Computer Engineering",
+    "room": "C131"
+  },
+  {
+    "id": 20221602004,
+    "name": "Ian Nader Fayes Aldabain",
+    "major": "Design & Visual Communication",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20241102025,
+    "name": "Ibraheem Sulyman Radwan Alnsour",
+    "major": "Mechatronics Engineering",
+    "room": "B302"
+  },
+  {
+    "id": 20241602024,
+    "name": "Ibrahem Mousa Ibrahem Al-Jariri",
+    "major": "Design & Visual Communication",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20241502114,
+    "name": "Ibrahim Hussein Ibrahim Alawneh",
+    "major": "Computer Engineering",
+    "room": "B002"
+  },
+  {
+    "id": 20241404010,
+    "name": "Ibrahim Mu'ayyad Hussein Musleh",
+    "major": "International Accounting",
+    "room": "B302"
+  },
+  {
+    "id": 20231505014,
+    "name": "Ismail Moh'd Ismail Abu Al Dahab",
+    "major": "Design and Media Informatics",
+    "room": "B301"
+  },
+  {
+    "id": 20239502123,
+    "name": "Jad Khaled Jamal Barrieh",
+    "major": "Computer Engineering",
+    "room": "B002"
+  },
+  {
+    "id": 20249103040,
+    "name": "Jaida Feras Jamal Hamdan",
+    "major": "Industrial Engineering",
+    "room": "B002"
+  },
+  {
+    "id": 20231901059,
+    "name": "Jamil Amin Jamil Almateryeen",
+    "major": "Sciences in Nursing",
+    "room": "D017"
+  },
+  {
+    "id": 20241402056,
+    "name": "Jehan Safwan Sultan Almajali",
+    "major": "Logistic Sciences",
+    "room": "B301"
+  },
+  {
+    "id": 20239302020,
+    "name": "Jenna Maria Ra'fat Fathi Haroon",
+    "major": "Biomedical Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20231602004,
+    "name": "Jessica Khader Fuad Abualzollf",
+    "major": "Design & Visual Communication",
+    "room": "B303"
+  },
+  {
+    "id": 20249601009,
+    "name": "Jessica Raid Naim Ziadat",
+    "major": "Architecture",
+    "room": "C106"
+  },
+  {
+    "id": 20249602002,
+    "name": "Joanna Nedal Ghazi Azar",
+    "major": "Design & Visual Communication",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20241502156,
+    "name": "Jolian Salameh Fadel Abuzolof",
+    "major": "Computer Engineering",
+    "room": "B301"
+  },
+  {
+    "id": 20239602006,
+    "name": "Joud Elias Shehadeh Fakhoury",
+    "major": "Design & Visual Communication",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20229302040,
+    "name": "Joud Eyad Hassan Al-Ali",
+    "major": "Biomedical Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20232302009,
+    "name": "Joud Fouad A Alsulaiman",
+    "major": "Biomedical Engineering",
+    "room": "C106"
+  },
+  {
+    "id": 20249105035,
+    "name": "Joud Rami Samir Malkawi",
+    "major": "Mechanical and Maintenance Engineering",
+    "room": "C106"
+  },
+  {
+    "id": 20239103189,
+    "name": "Jude Ahmad Moh'd Obeidat",
+    "major": "Industrial Engineering",
+    "room": "B002"
+  },
+  {
+    "id": 20249601015,
+    "name": "Jude Osama Husni Sadaqa",
+    "major": "Architecture",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20249601002,
+    "name": "Juline Majed Fillibe Samawi",
+    "major": "Architecture",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20241405072,
+    "name": "Kamel Mohammed Kamel Alsharqawi",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "B002"
+  },
+  {
+    "id": 20249404048,
+    "name": "Kareem Muhannad Ahmad Atmeh",
+    "major": "International Accounting",
+    "room": "C106"
+  },
+  {
+    "id": 20221402080,
+    "name": "Kareem Ziad Bassam Kamal",
+    "major": "Logistic Sciences",
+    "room": "B302"
+  },
+  {
+    "id": 20249302050,
+    "name": "Karim Omar Omar Abu Yousef",
+    "major": "Biomedical Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20249105004,
+    "name": "Khaled Mohammad Khaled Yousef",
+    "major": "Mechanical and Maintenance Engineering",
+    "room": "B301"
+  },
+  {
+    "id": 20241502017,
+    "name": "Khalid Deya' Addin Mohammad Atawneh",
+    "major": "Computer Engineering",
+    "room": "B002"
+  },
+  {
+    "id": 20249302019,
+    "name": "Laila Abdullah H. Alhiary",
+    "major": "Biomedical Engineering",
+    "room": "C106"
+  },
+  {
+    "id": 20209601010,
+    "name": "Laith Musa Abdelrazzaq Al Rayyan",
+    "major": "Architecture",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20231901132,
+    "name": "Laith Wa'el Abdel Wahab Alsarayreh",
+    "major": "Sciences in Nursing",
+    "room": "D017"
+  },
+  {
+    "id": 20241505009,
+    "name": "Lama Belal Awwad Al Qtaishat",
+    "major": "Design and Media Informatics",
+    "room": "B002"
+  },
+  {
+    "id": 20249404060,
+    "name": "Lamar Ihab Ziad Al-Hijjawi",
+    "major": "International Accounting",
+    "room": "C106"
+  },
+  {
+    "id": 20242601006,
+    "name": "Lana Zeyad Hashim Hashim",
+    "major": "Architecture",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20241602042,
+    "name": "Layan Eyad Tahseen Hijazi",
+    "major": "Design & Visual Communication",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20239405021,
+    "name": "Layan Majed Mohammad Said Alsayeh",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "B002"
+  },
+  {
+    "id": 20242601023,
+    "name": "Leen Ali Qussay Shanshal",
+    "major": "Architecture",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20239602015,
+    "name": "Leen Amjad Hatem Al-Mbideen",
+    "major": "Design & Visual Communication",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20241405017,
+    "name": "Lina Yanal Mousa Khamash",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "C131"
+  },
+  {
+    "id": 20249602009,
+    "name": "Lynn Moutasem Tamim Mismar",
+    "major": "Design & Visual Communication",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20241402093,
+    "name": "Maan Suleiman Ahmad Alrawashdeh",
+    "major": "Logistic Sciences",
+    "room": "B302"
+  },
+  {
+    "id": 20242302067,
+    "name": "Mahdi Ashraf Alshami",
+    "major": "Biomedical Engineering",
+    "room": "B002"
+  },
+  {
+    "id": 20249404016,
+    "name": "Mahmoud Khaled Hussein Rizik",
+    "major": "International Accounting",
+    "room": "C131"
+  },
+  {
+    "id": 20241504010,
+    "name": "Mahmoud Moustafa Mahmoud Khdairat",
+    "major": "Electrical Engineering",
+    "room": "C131"
+  },
+  {
+    "id": 20239404002,
+    "name": "Mahmoud Tawfiq Mahmoud Hisham Shahed",
+    "major": "International Accounting",
+    "room": "D017"
+  },
+  {
+    "id": 20241405042,
+    "name": "Mais Nazih Abdullah Alhaddar",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "D017"
+  },
+  {
+    "id": 20232501042,
+    "name": "Majd S. M. Abughosh",
+    "major": "Computer Science",
+    "room": "B301"
+  },
+  {
+    "id": 20241405067,
+    "name": "Malak Iyad Jamal Hasan",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "B002"
+  },
+  {
+    "id": 20249505007,
+    "name": "Maria Vicken Kevork Assadourian",
+    "major": "Design and Media Informatics",
+    "room": "C106"
+  },
+  {
+    "id": 20249601030,
+    "name": "Mariam Ayman Mohammad Asad",
+    "major": "Architecture",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20231602049,
+    "name": "Maryam Sameer Hamed Abushokhedim",
+    "major": "Design & Visual Communication",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20239602026,
+    "name": "Masa Hakim Mamdouh Kharisha",
+    "major": "Design & Visual Communication",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20241405092,
+    "name": "Massara Kamal Younes Ma'aita",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "C106"
+  },
+  {
+    "id": 20239301023,
+    "name": "Maya Mohammad Khaled Altaher",
+    "major": "Pharmaceutical & Chemical Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241302032,
+    "name": "Mera Ibraheem Moqbel Alabedallat",
+    "major": "Biomedical Engineering",
+    "room": "B301"
+  },
+  {
+    "id": 20241502060,
+    "name": "Mo'ath Sharef Ahmad Alzaarer",
+    "major": "Computer Engineering",
+    "room": "C131"
+  },
+  {
+    "id": 20241901005,
+    "name": "Mohamad Ismail Suleiman Shqairat",
+    "major": "Sciences in Nursing",
+    "room": "B301"
+  },
+  {
+    "id": 20241505012,
+    "name": "Mohammad Abdelnasser Mahmoud Bishtawi",
+    "major": "Design and Media Informatics",
+    "room": "C106"
+  },
+  {
+    "id": 20241103258,
+    "name": "Mohammad Abdelrahman Hasan Bani Awad",
+    "major": "Industrial Engineering",
+    "room": "B002"
+  },
+  {
+    "id": 20241501068,
+    "name": "Mohammad Abed Alhameed Ali Alwreikat",
+    "major": "Computer Science",
+    "room": "B002"
+  },
+  {
+    "id": 20241504004,
+    "name": "Mohammad Ahmad Fuad Al Khatib",
+    "major": "Electrical Engineering",
+    "room": "C106"
+  },
+  {
+    "id": 20241102033,
+    "name": "Mohammad Ahmad Mohammed Al-Natour",
+    "major": "Mechatronics Engineering",
+    "room": "C131"
+  },
+  {
+    "id": 20249901038,
+    "name": "Mohammad Ahmad Yaseen Abid",
+    "major": "Sciences in Nursing",
+    "room": "C106"
+  },
+  {
+    "id": 20241301068,
+    "name": "Mohammad Ali Jebril Abuhamdieh Alkhalili",
+    "major": "Pharmaceutical & Chemical Engineering",
+    "room": "B303"
+  },
+  {
+    "id": 20241105019,
+    "name": "Mohammad Fareed Mohammad Al Hrout",
+    "major": "Mechanical and Maintenance Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20249302006,
+    "name": "Mohammad Hossam Rawhi Barghouth",
+    "major": "Biomedical Engineering",
+    "room": "C131"
+  },
+  {
+    "id": 20249206006,
+    "name": "Mohammad Husam Alden A. Abumo'ailish",
+    "major": "Civil and Environmental Engineering",
+    "room": "C131"
+  },
+  {
+    "id": 20241502154,
+    "name": "Mohammad Jehad Ahmad Almasa'afeh",
+    "major": "Computer Engineering",
+    "room": "C131"
+  },
+  {
+    "id": 20241105017,
+    "name": "Mohammad Juma Taha Aqtash",
+    "major": "Mechanical and Maintenance Engineering",
+    "room": "C106"
+  },
+  {
+    "id": 20231505005,
+    "name": "Mohammad Mohannad Ali Alfaqir Alrabab'a",
+    "major": "Design and Media Informatics",
+    "room": "B301"
+  },
+  {
+    "id": 20241405023,
+    "name": "Mohammad Nasser Mosa Abu-Sweilem",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "D017"
+  },
+  {
+    "id": 20242501094,
+    "name": "Mohammad Nidal Alsadi",
+    "major": "Computer Science",
+    "room": "D017"
+  },
+  {
+    "id": 20241103265,
+    "name": "Mohammad Omar Ibrahim Al-Talafih",
+    "major": "Industrial Engineering",
+    "room": "C131"
+  },
+  {
+    "id": 20239103002,
+    "name": "Mohammad Samer Zaki Sa'adeh",
+    "major": "Industrial Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20242105058,
+    "name": "Mohammad Wa'el Abed Alfattah Alazazi",
+    "major": "Mechanical and Maintenance Engineering",
+    "room": "C106"
+  },
+  {
+    "id": 20241502101,
+    "name": "Mohammad Yousef Moh'd Alsaifi",
+    "major": "Computer Engineering",
+    "room": "B301"
+  },
+  {
+    "id": 20241502043,
+    "name": "Mohammed Belal Ahmad Abualghanam",
+    "major": "Computer Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20242102029,
+    "name": "Mohammed Munaf Harith Al-Yawer",
+    "major": "Mechatronics Engineering",
+    "room": "B301"
+  },
+  {
+    "id": 20242504011,
+    "name": "Mohammed W. M. Assaf",
+    "major": "Electrical Engineering",
+    "room": "C131"
+  },
+  {
+    "id": 20241502037,
+    "name": "Mohanad Ala'a Al-Din Mohammad Abu Hawash",
+    "major": "Computer Engineering",
+    "room": "B301"
+  },
+  {
+    "id": 20241102041,
+    "name": "Mousa Mohammad Mousa Sawan",
+    "major": "Mechatronics Engineering",
+    "room": "C131"
+  },
+  {
+    "id": 20242102022,
+    "name": "Mousa Nader Mohammedibrahim Bitar",
+    "major": "Mechatronics Engineering",
+    "room": "B301"
+  },
+  {
+    "id": 20241102039,
+    "name": "Mu'taz Munir Mohd Ashour Alsagheer",
+    "major": "Mechatronics Engineering",
+    "room": "C402"
+  },
+  {
+    "id": 20249102015,
+    "name": "Nabeel Yacoub Nabeel Abuisnineh",
+    "major": "Mechatronics Engineering",
+    "room": "B302"
+  },
+  {
+    "id": 20241301010,
+    "name": "Narena Bashar Husni Al-Fahoum",
+    "major": "Pharmaceutical & Chemical Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20242105058,
+    "name": "Naser Yarob Othman Alqudah",
+    "major": "Industrial Engineering",
+    "room": "C106"
+  },
+  {
+    "id": 20231103030,
+    "name": "Nataly Khalid Samih Bakri",
+    "major": "Industrial Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20239602031,
+    "name": "Natasha Rafat Raji Al Qaisi",
+    "major": "Design & Visual Communication",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20242102004,
+    "name": "Nazih Nizar Mohammed Abunasser",
+    "major": "Mechatronics Engineering",
+    "room": "C106"
+  },
+  {
+    "id": 20231302060,
+    "name": "Nazmi Emad Nazmi Alwelewel",
+    "major": "Biomedical Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20222601030,
+    "name": "Nesmah Mustafa Salim Salim",
+    "major": "Architecture",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20249402097,
+    "name": "Omar Abdelhakim Mousa Shibli",
+    "major": "Logistic Sciences",
+    "room": "C402"
+  },
+  {
+    "id": 20249103126,
+    "name": "Omar Asem Mamdouh Zaidan",
+    "major": "Industrial Engineering",
+    "room": "C106"
+  },
+  {
+    "id": 20241103240,
+    "name": "Omar Mohammad Hasan Almomani",
+    "major": "Industrial Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20249405028,
+    "name": "Omar Mohammed Ahmad Obeidat",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "B301"
+  },
+  {
+    "id": 20249203014,
+    "name": "Omar Samer Shaker Dababneh",
+    "major": "Energy Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20249301016,
+    "name": "Pierre Apet Artin Topolian",
+    "major": "Pharmaceutical & Chemical Engineering",
+    "room": "C106"
+  },
+  {
+    "id": 20241103254,
+    "name": "Qusai Samer Salah Abdul Kareem",
+    "major": "Industrial Engineering",
+    "room": "B301"
+  },
+  {
+    "id": 20249502143,
+    "name": "Ra'ad Mohammad Hammoud Habahbeh",
+    "major": "Computer Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20239103154,
+    "name": "Rabah Bilal Rabah Alsughair",
+    "major": "Industrial Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241302072,
+    "name": "Rama Rafat Ahmad Attoun",
+    "major": "Biomedical Engineering",
+    "room": "C106"
+  },
+  {
+    "id": 20241901023,
+    "name": "Rana Ibrahim Mousa Hamad",
+    "major": "Sciences in Nursing",
+    "room": "C402"
+  },
+  {
+    "id": 20222302010,
+    "name": "Raneem Mohammad Hasan Hamdona",
+    "major": "Biomedical Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241405019,
+    "name": "Raseel Emad Husni Ja'far",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "C106"
+  },
+  {
+    "id": 20249105021,
+    "name": "Rashed Jareer Salem Alqudah",
+    "major": "Mechanical and Maintenance Engineering",
+    "room": "C402"
+  },
+  {
+    "id": 20249103157,
+    "name": "Rashed Khaled Waleed Alkurdi",
+    "major": "Industrial Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241502179,
+    "name": "Rashed Mohammad Ibrahim Albarrie",
+    "major": "Computer Engineering",
+    "room": "B301"
+  },
+  {
+    "id": 20239105058,
+    "name": "Rashed Sami Mahmoud Alshawabkeh",
+    "major": "Mechanical and Maintenance Engineering",
+    "room": "B301"
+  },
+  {
+    "id": 20241505008,
+    "name": "Rayan N. S. Abuelayyan",
+    "major": "Design and Media Informatics",
+    "room": "B301"
+  },
+  {
+    "id": 20231901123,
+    "name": "Rayan Rami Omar Ballouta",
+    "major": "Sciences in Nursing",
+    "room": "D017"
+  },
+  {
+    "id": 20242105009,
+    "name": "Rayyan Ahmed Atef Almadhoun",
+    "major": "Mechanical and Maintenance Engineering",
+    "room": "C402"
+  },
+  {
+    "id": 20249502036,
+    "name": "Reem Hussein Kayed Al-Mustafa",
+    "major": "Computer Engineering",
+    "room": "C402"
+  },
+  {
+    "id": 20241103085,
+    "name": "Reem Yousef Mohammad Alrefa'i",
+    "major": "Industrial Engineering",
+    "room": "B301"
+  },
+  {
+    "id": 20241502116,
+    "name": "Richard Marwan Moh'd Dibei",
+    "major": "Computer Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20249502144,
+    "name": "Ru'a Dakhil A.rahman Al-Jaraideh",
+    "major": "Computer Engineering",
+    "room": "C106"
+  },
+  {
+    "id": 20249405096,
+    "name": "Saad Oday Saad Obaidat",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "C402"
+  },
+  {
+    "id": 20249302059,
+    "name": "Sadeel Raid Ismail Abuhashish",
+    "major": "Biomedical Engineering",
+    "room": "B002"
+  },
+  {
+    "id": 20249602022,
+    "name": "Sadeel Samhar Suleiman Weshah",
+    "major": "Design & Visual Communication",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20241103215,
+    "name": "Saeed Omar Hasan Alhashhoush",
+    "major": "Industrial Engineering",
+    "room": "B002"
+  },
+  {
+    "id": 20249302074,
+    "name": "Saif Eddien Mohnnad A. Al Haleek",
+    "major": "Biomedical Engineering",
+    "room": "B301"
+  },
+  {
+    "id": 20249502002,
+    "name": "Saif Majed Samir Shamieh",
+    "major": "Computer Engineering",
+    "room": "C126"
+  },
+  {
+    "id": 20241102046,
+    "name": "Saleh Luay Saleh Nusier",
+    "major": "Mechatronics Engineering",
+    "room": "C126"
+  },
+  {
+    "id": 20242502034,
+    "name": "Sally Mohammed Sameer Al Jafar",
+    "major": "Computer Engineering",
+    "room": "C126"
+  },
+  {
+    "id": 20241602021,
+    "name": "Salma Basem Moh'd Alhiyasat",
+    "major": "Design & Visual Communication",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20249103008,
+    "name": "Sami Mohannad Sami Alhelo",
+    "major": "Industrial Engineering",
+    "room": "C402"
+  },
+  {
+    "id": 20241302007,
+    "name": "Sanad Ayman M. Al Abour",
+    "major": "Biomedical Engineering",
+    "room": "B301"
+  },
+  {
+    "id": 20241901002,
+    "name": "Sanad Moh'd Ghandi A.karim Maqableh",
+    "major": "Sciences in Nursing",
+    "room": "B301"
+  },
+  {
+    "id": 20249401006,
+    "name": "Sara Basem Ibrahim Bashir",
+    "major": "Management Sciences",
+    "room": "C402"
+  },
+  {
+    "id": 20241502170,
+    "name": "Sara Iyad Issa Altarawneh",
+    "major": "Computer Engineering",
+    "room": "C126"
+  },
+  {
+    "id": 20241406041,
+    "name": "Sara Jamal Yaseen Al-Beetar",
+    "major": "Digital Marketing",
+    "room": "D017"
+  },
+  {
+    "id": 20241502153,
+    "name": "Sara Thaer Ishaq Al-Qudeimat",
+    "major": "Computer Engineering",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20249301003,
+    "name": "Sarah Ibrahim Ali Alkiswani",
+    "major": "Pharmaceutical & Chemical Engineering",
+    "room": "B303"
+  },
+  {
+    "id": 20242301027,
+    "name": "Sarah Mazin Fadel Bulbul",
+    "major": "Pharmaceutical & Chemical Engineering",
+    "room": "B301"
+  },
+  {
+    "id": 20249103141,
+    "name": "Seif Muntasir Mohammad Asim Tanjeir",
+    "major": "Industrial Engineering",
+    "room": "C402"
+  },
+  {
+    "id": 20241301069,
+    "name": "Selen Awadallah D'yab Abu-Zaid",
+    "major": "Pharmaceutical & Chemical Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20239602045,
+    "name": "Seraj Eddin Yasar Abdallah Alqatarneh",
+    "major": "Design & Visual Communication",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20249602012,
+    "name": "Shahed Mazen Rafiq Thibian",
+    "major": "Design & Visual Communication",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20199602017,
+    "name": "Sina Ismail Kamel Al Sharif",
+    "major": "Design & Visual Communication",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20249103250,
+    "name": "Sinareet Nawras Moh'd Bashir Bers",
+    "major": "Industrial Engineering",
+    "room": "C126"
+  },
+  {
+    "id": 20249501081,
+    "name": "Suheal Naser Mohammad Marahil",
+    "major": "Computer Science",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20241404027,
+    "name": "Taleen Mohammad Suleiman Alrawashdeh",
+    "major": "International Accounting",
+    "room": "C402"
+  },
+  {
+    "id": 20249405006,
+    "name": "Tamer Emad Zakaria Jweihan",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "B002"
+  },
+  {
+    "id": 20249405119,
+    "name": "Tamer Nazmi Ali Abuabed",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "C126"
+  },
+  {
+    "id": 20249405031,
+    "name": "Tammem Mones Hashem Al Hattab",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "C402"
+  },
+  {
+    "id": 20241502022,
+    "name": "Tareq Zeyad Nawaf Alsanabrah",
+    "major": "Computer Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241103261,
+    "name": "Tariq Zeyad Abed Almajeed Alkhasawneh",
+    "major": "Industrial Engineering",
+    "room": "B301"
+  },
+  {
+    "id": 20249602023,
+    "name": "Tina Rajaie Nicola Dafesh",
+    "major": "Design & Visual Communication",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20241402054,
+    "name": "Toleen Ahmad Mohammed Sober",
+    "major": "Logistic Sciences",
+    "room": "C126"
+  },
+  {
+    "id": 20249601010,
+    "name": "Toleen Mahmoud Rasheed Al-Hammouz",
+    "major": "Architecture",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20241102005,
+    "name": "Wa'el Taiseer Khalaf Almahasnah",
+    "major": "Mechatronics Engineering",
+    "room": "B302"
+  },
+  {
+    "id": 20241102043,
+    "name": "Wateen Muntasir Taha Alma'aitah",
+    "major": "Mechatronics Engineering",
+    "room": "B302"
+  },
+  {
+    "id": 20241901045,
+    "name": "Yamen Yaser Hasan Omar",
+    "major": "Sciences in Nursing",
+    "room": "B301"
+  },
+  {
+    "id": 20249404025,
+    "name": "Yara Fadi Waleed Almasri",
+    "major": "International Accounting",
+    "room": "B302"
+  },
+  {
+    "id": 20249302001,
+    "name": "Yara Mustafa Saleh Abualhayja'a",
+    "major": "Biomedical Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241402049,
+    "name": "Yaseen Mohammad Khlaif Al Sqairi Al Dajeh",
+    "major": "Logistic Sciences",
+    "room": "C126"
+  },
+  {
+    "id": 20231602059,
+    "name": "Yaser Saleem Fadel Alsharqawi",
+    "major": "Design & Visual Communication",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 20239602020,
+    "name": "Yasmin Tariq Husni Zada",
+    "major": "Design & Visual Communication",
+    "room": "SI206 جبل عمّان"
+  },
+  {
+    "id": 20241103224,
+    "name": "Yazan Fadi Omar Talab",
+    "major": "Industrial Engineering",
+    "room": "C402"
+  },
+  {
+    "id": 20231901103,
+    "name": "Yazan Mohammad Khaled Obeidat",
+    "major": "Sciences in Nursing",
+    "room": "C402"
+  },
+  {
+    "id": 20239501184,
+    "name": "Yazan Sami Lutfi Abu Ruz",
+    "major": "Computer Science",
+    "room": "D017"
+  },
+  {
+    "id": 20239502105,
+    "name": "Yazeed Fuad Abdelqader Alwahish",
+    "major": "Computer Engineering",
+    "room": "C402"
+  },
+  {
+    "id": 20249502168,
+    "name": "Yousef Ahmad Abdelrahman Hammad",
+    "major": "Computer Engineering",
+    "room": "B002"
+  },
+  {
+    "id": 20241103235,
+    "name": "Yousef Mazen Yousef Abu Sondos",
+    "major": "Industrial Engineering",
+    "room": "B002"
+  },
+  {
+    "id": 20241402095,
+    "name": "Yousef Mohammad Yousef Abunab",
+    "major": "Logistic Sciences",
+    "room": "B301"
+  },
+  {
+    "id": 20229103079,
+    "name": "Yousef Moh'd Bashar Yousef Alhalboni",
+    "major": "Industrial Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241502097,
+    "name": "Zaid Ibrahim Mohammad Jaradat",
+    "major": "Computer Engineering",
+    "room": "B002"
+  },
+  {
+    "id": 20241502149,
+    "name": "Zaid Jameel Husni Abuamer",
+    "major": "Computer Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241502122,
+    "name": "Zaid Khaled Ahmad Hakooz",
+    "major": "Computer Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241103132,
+    "name": "Zaid Mohammad Fatehi Abusaymeh",
+    "major": "Industrial Engineering",
+    "room": "B301"
+  },
+  {
+    "id": 20241105020,
+    "name": "Zaid Mohammad Sulieman Al-Khawaldeh",
+    "major": "Mechanical and Maintenance Engineering",
+    "room": "C402"
+  },
+  {
+    "id": 20241206011,
+    "name": "Zaid Mohammed Anwar Nofal",
+    "major": "Civil and Environmental Engineering",
+    "room": "B301"
+  },
+  {
+    "id": 20241103127,
+    "name": "Zaid Muflih Amin Aljarrah",
+    "major": "Industrial Engineering",
+    "room": "C402"
+  },
+  {
+    "id": 20241502085,
+    "name": "Zaid Nail Faeez Khatab",
+    "major": "Computer Engineering",
+    "room": "D017"
+  },
+  {
+    "id": 20241405118,
+    "name": "Zaid Nasser Ali Alrwiai",
+    "major": "Business Intelligence and Data Analytics",
+    "room": "C126"
+  },
+  {
+    "id": 20229602003,
+    "name": "Zaina Samih Ibrahim Abdalah",
+    "major": "Design & Visual Communication",
+    "room": "SI307 جبل عمّان"
+  },
+  {
+    "id": 123456789,
+    "name": "Mohammad Alhroot",
+    "major": "Arabic",
+    "room": "Office"
+  }
+]

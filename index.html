@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>الاستعلام عن القاعة</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; padding: 50px; background: #f0f8ff; }
+    input, button { padding: 10px; font-size: 16px; margin: 10px; }
+    #result { margin-top: 20px; font-size: 18px; color: green; }
+  </style>
+</head>
+<body>
+  <h2>الاستعلام عن قاعة الامتحان</h2>
+  <input id="studentId" placeholder="أدخل الرقم الجامعي">
+  <button onclick="search()">استعلام</button>
+  <div id="result"></div>
+
+  <script>
+    let data = [];
+
+    fetch('data.json')
+      .then(res => res.json())
+      .then(json => data = json)
+      .catch(() => {
+        document.getElementById("result").textContent = "تعذر تحميل البيانات.";
+      });
+
+    function search() {
+      const id = document.getElementById("studentId").value.trim();
+      const student = data.find(s => s.id === id);
+      const result = document.getElementById("result");
+
+      if (student) {
+        result.innerHTML = `
+          الاسم: ${student.name}<br>
+          التخصص: ${student.major}<br>
+          القاعة: <strong>${student.room}</strong>
+        `;
+        result.style.color = "green";
+      } else {
+        result.textContent = "الرقم غير موجود.";
+        result.style.color = "red";
+      }
+    }
+  </script>
+</body>
+</html>
